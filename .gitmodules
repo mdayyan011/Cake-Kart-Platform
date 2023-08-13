@@ -1,0 +1,9 @@
+[submodule "Cake_Kart_User_App"]
+	path = Cake_Kart_User_App
+	url = https://github.com/mdayyan011/Cake_Kart_User_App.git
+[submodule "Cake_Kart_Admin_App"]
+	path = Cake_Kart_Admin_App
+	url = https://github.com/mdayyan011/Cake_Kart_Admin_App.git
+[submodule "Cake_Kart_Backend_API"]
+	path = Cake_Kart_Backend_API
+	url = https://github.com/mdayyan011/Cake_Kart_Backend_API.git
