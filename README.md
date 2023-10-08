@@ -1,5 +1,5 @@
 # Cake-Kart-Platform
-##Landing Pages:
+#Landing Pages:
 
 <img width="960" alt="Screenshot 2023-10-08 170324" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/13e3cb07-8695-44f5-8970-99f1d11cc6ea">
 <img width="960" alt="Screenshot 2023-10-08 170414" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/e6003bc8-1601-44a5-a627-e0c7a5b5c3b2">
