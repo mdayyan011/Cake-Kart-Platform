@@ -14,7 +14,10 @@
 
 ### Product Page Skeleton Preloader:
 <img width="960" alt="Screenshot 2023-10-08 170433" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/5df216df-dbaf-405a-936b-2c16a0a25bd6">
+
+### Product Detail Page:
 <img width="947" alt="Screenshot 2023-10-08 170452" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/9c98f154-5811-4abf-b023-4214ab76ee44">
+
 <img width="949" alt="Screenshot 2023-10-08 170505" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/dbac31a7-9f59-4a3a-b759-48f92dc40490">
 <img width="949" alt="Screenshot 2023-10-08 170520" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/9a15bc9c-1fc0-4506-a467-34dbfd96de51">
 <img width="944" alt="Screenshot 2023-10-08 170605" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/dbe35f54-9b1e-4004-8ad6-cc5ac86e4476">
