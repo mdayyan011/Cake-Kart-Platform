@@ -10,6 +10,10 @@
 ### Landing Page3:
 <img width="960" alt="landingpage3" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/a440c38c-7dd4-4b78-ac00-1498b922b811">
 
+### -------------------------------------------------------------------------------------------------------------------------
+
+### Product Page Skeleton Preloader:
+
 <img width="960" alt="Screenshot 2023-10-08 170433" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/5df216df-dbaf-405a-936b-2c16a0a25bd6">
 <img width="947" alt="Screenshot 2023-10-08 170452" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/9c98f154-5811-4abf-b023-4214ab76ee44">
 <img width="949" alt="Screenshot 2023-10-08 170505" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/dbac31a7-9f59-4a3a-b759-48f92dc40490">
