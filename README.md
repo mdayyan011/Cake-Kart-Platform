@@ -10,6 +10,5 @@ Landing Page:
 <img width="944" alt="Screenshot 2023-10-08 170605" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/dbe35f54-9b1e-4004-8ad6-cc5ac86e4476">
 <img width="946" alt="Screenshot 2023-10-08 170634" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/86a40a23-8216-4614-aa16-c251f7c49c1b">
 <img width="945" alt="Screenshot 2023-10-08 170654" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/fd7a0c95-7d73-4a7d-bc1f-3c46e68b4247">
-<img width="960" alt="Screenshot 2023-10-08 170712" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/eb223ace-c8b1-4dc3-8e43-fa11a2472885">
 <img width="960" alt="Screenshot 2023-10-08 170712" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/a67b431a-d678-448d-b281-4f0851fcb0fc">
 <img width="960" alt="Screenshot 2023-10-08 170724" src="https://github.com/mdayyan011/Cake-Kart-Platform/assets/65223164/8b2bff3d-ef8d-4da1-8a9f-3727971ffe30">
